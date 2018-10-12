@@ -439,3 +439,4 @@ REFERENCE
 
 - [REST Relationship between URL and HTTP methods](https://en.wikipedia.org/wiki/Representational_state_transfer#Relationship_between_URL_and_HTTP_methods)
 
+- [PSR-7: HTTP message interfaces](https://www.php-fig.org/psr/psr-7/)
