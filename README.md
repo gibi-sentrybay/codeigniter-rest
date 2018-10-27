@@ -6,7 +6,7 @@
     <br>
 </p>
 
-CodeIgniter 3 RESTful API Controller
+CodeIgniter 3 RESTful API Resource Base Controller
 
 [![Latest Stable Version](https://poser.pugx.org/yidas/codeigniter-rest/v/stable?format=flat-square)](https://packagist.org/packages/yidas/codeigniter-rest)
 [![Latest Unstable Version](https://poser.pugx.org/yidas/codeigniter-rest/v/unstable?format=flat-square)](https://packagist.org/packages/yidas/codeigniter-rest)
