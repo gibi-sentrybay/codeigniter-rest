@@ -323,6 +323,14 @@ The PSR-7 request component `yidas\http\request` is loaded with `yidas\rest\Cont
 
 ### Usage
 
+#### getRawBody()
+
+Returns the raw HTTP request body
+
+```php
+public string getRawBody()
+```
+
 #### getAuthCredentialsWithBasic()
 
 Get Credentials with HTTP Basic Authentication 
