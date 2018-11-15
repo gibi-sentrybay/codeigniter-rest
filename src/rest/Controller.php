@@ -25,7 +25,7 @@ use yidas\http\Response;
  * $route['resource_name/(:num)'] = '[Controller]/route/$1';
  * ```
  */
-class Controller extends \CI_Controller
+class Controller extends \MX_Controller
 {
     /**
      * RESTful API resource routes
